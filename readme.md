@@ -1,6 +1,6 @@
 # backend demo - abhirv jatar
 
-for at comp sci presentation on backend
+_For a quick compsci presentation on backend._
 
 ## SCHEMAS
 
