@@ -1,0 +1,25 @@
+{
+  "name": "backend-demo",
+  "version": "1.0.0",
+  "description": "backend demo proj for ATCS",
+  "homepage": "https://github.com/abjatar1/backend-demo#readme",
+  "bugs": {
+    "url": "https://github.com/abjatar1/backend-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abjatar1/backend-demo.git"
+  },
+  "license": "ISC",
+  "author": "abhirvjatar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "quick-mongo-super": "^3.0.2",
+    "uuid": "^13.0.0"
+  }
+}
